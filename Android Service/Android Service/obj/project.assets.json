@@ -1538,11 +1538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Android Service\\Android Service\\Android Service.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\MediaService\\Android Service\\Android Service\\Android Service.csproj",
       "projectName": "Android Service",
-      "projectPath": "D:\\Android Service\\Android Service\\Android Service.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\MediaService\\Android Service\\Android Service\\Android Service.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Android Service\\Android Service\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\MediaService\\Android Service\\Android Service\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
